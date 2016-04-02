@@ -1,4 +1,4 @@
-#Server lifecycle management with Foreman.
+#Server lifecycle management with Foreman
 
 Project is part of Linux project course in Haaga-Helia. In this project we create a server environment and manage it with Foreman.
 
