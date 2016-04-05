@@ -38,7 +38,7 @@ w19 Presentate the project (if 2nd day is needed)
 
 ##Development environment
 
-CloudPlatform, is there any other choice?
+CloudPlatform, Virtualbox, physical computer?
 
 ##Risks involved in this project
 
