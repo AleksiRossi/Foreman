@@ -22,7 +22,7 @@ Other things to consider if we have time:
 
 ##Timetable
 
-w13 Come up with a project plan
+w13 Publish project plan
 
 w14 Create and configure a server for Foreman and Puppet, if they need separate servers
 
