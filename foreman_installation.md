@@ -24,6 +24,10 @@ Set hostname and edit /etc/hosts to match
 
 	vim /etc/hosts
 	192.168.1.210   foreman.localdomain foreman
+	
+Download the installer
+	
+	apt-get update && apt-get -y install foreman-installer
 
 Start the installation
 	
