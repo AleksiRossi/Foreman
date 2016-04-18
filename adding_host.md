@@ -60,7 +60,7 @@ First go to the Foreman dashboard.
 2. Host:
     * Name: testcomp
 2. Interface:
-    * MAC address: <MAC address of the target computer>
+    * MAC address: MAC address of the target computer
     * DNS name: testcomp
     * Domain: localdomain
     * Subnet: test
