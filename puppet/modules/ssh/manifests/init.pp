@@ -4,6 +4,7 @@ class ssh {
 	}
 	file { '/etc/ssh/sshd_config':
 		content => template('/etc/puppet/templates/ssh.erb'),
+		require => Package['openssh-server'],
 		notify => Service['ssh'],
 	}
 	service { 'ssh':
