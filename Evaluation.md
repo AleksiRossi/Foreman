@@ -1,6 +1,6 @@
 # Foreman evaluation
 
-Foreman is a front end and a user interface for Puppet configuration management system. Along with controlling and managing Puppet, Foreman includes some added features, such as provisioning hosts and monitoring status of hosts. 
+Foreman is a front and a user interface for Puppet configuration management system. Along with controlling and managing Puppet, Foreman includes some added features, such as provisioning hosts and monitoring status of hosts. 
 
 ## What did we learn
 
