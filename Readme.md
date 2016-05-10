@@ -8,11 +8,11 @@ Foreman is an open source server management tool for linux systems. It provides 
 
 Provisioning on bare metal is provided via DHCP, DNS, TFTP and PXE as long as the machine is set for network boot. The host machine is turned on, sends a broadcast signal to Foreman, which replies with an IP address, host contacts PXE server, which replies with an OS image stored in it’s TFTP server. This will start an unattended OS installation.
 
+https://blog.codecentric.de/wp-content/blogs.dir/2/files/2014/04/Foreman-boot-sequence.png
+
 After the server has been installed, it will be configured by Puppet, which can be managed through Foreman’s user interface. Puppet will also gather information about the server, like memory usage and server time, which can be reported to Foreman. This will allow Foreman to  function as a monitoring tool for your hosts and provide an easy to manage source of configuration information.
 
 In conclusion, Foreman can be used to streamline server deployment, simplify configuration management and manage the server through it’s whole life cycle.
-
-https://blog.codecentric.de/wp-content/blogs.dir/2/files/2014/04/Foreman-boot-sequence.png
 
 ##Purpose of the project
 
