@@ -12,6 +12,8 @@ After the server has been installed, it will be configured by Puppet, which can 
 
 In conclusion, Foreman can be used to streamline server deployment, simplify configuration management and manage the server through it’s whole life cycle.
 
+https://blog.codecentric.de/wp-content/blogs.dir/2/files/2014/04/Foreman-boot-sequence.png
+
 ##Purpose of the project
 
 Our goal for the project is install and evaluate Foreman. We are going to install Foreman and Puppet, configure Foreman for the provisioning process, create some Puppet modules for testing and see if we can deploy a few servers. In the presentation, we will discuss the installation and deployment process, possible problems and our opinion of the software. 
